@@ -8,3 +8,9 @@ matplotlib
 mapclassify
 ydata-profiling
 duckdb
+ipywidgets
+ipykernel
+jupyter
+duckdb-engine
+jupysql
+prefect
